@@ -1,0 +1,46 @@
+body, html
+{
+    background-color: #000;
+    padding: 10px 0 0 10px;
+}
+h1
+{
+    font-family: 'Courier New', Courier, monospace;
+    color: darkgoldenrod;
+    margin: 10px 0 20px 50px;
+    
+}
+#container 
+{
+    margin: 10px 0 0 10px;
+    padding: 10 0 0 10px;
+}
+
+#container .box
+{
+    color: #fff;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+}
+
+#container .box input
+{
+    padding: 10px 10px 10px 10px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 16px;
+    color: darkgoldenrod;
+    width: 30%;
+}
+#container .box label
+{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 16px;
+}
+#container input[type="submit"]
+{
+    margin: 20px 0 0 0;
+    background-color: rgb(48, 46, 46);
+    color: rgb(233, 200, 15);
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
